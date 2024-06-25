@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xmiggle
+- 👋 Hi, I’m Milo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning NextJS and Vercel
 - 💞️ I’m looking to collaborate on anything at this point
